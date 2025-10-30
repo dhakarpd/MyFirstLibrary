@@ -39,8 +39,8 @@ android {
 }
 
 
-group = "com.github.piyushdhakar"
-version = "1.0.3"
+group = "com.github.dhakarpd"
+version = "1.0.4"
 
 
 // --- Publishing config for JitPack ---
