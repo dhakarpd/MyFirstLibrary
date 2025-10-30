@@ -40,7 +40,7 @@ android {
 
 
 group = "com.github.piyushdhakar"
-version = "1.0.0"
+version = "1.0.2"
 
 
 // --- Publishing config for JitPack ---
